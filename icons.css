@@ -25,6 +25,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-image:before {
+  content: "\e92d";
+}
 .icon-volume-low:before {
   content: "\e913";
 }
